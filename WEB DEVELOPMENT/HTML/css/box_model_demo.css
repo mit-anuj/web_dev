@@ -1,0 +1,15 @@
+div{
+    width: 400px;
+}
+#one{
+    background-color:#560bad;
+    border-width: 4px;
+    border-style:dotted;
+    border-color:black;
+}
+#two{
+    background-color: #606c38;
+}
+#three{
+    background-color: #dda15e;
+}
